@@ -19,7 +19,6 @@ git clone https://github.com/patrickroberts/music-js.git
 cd music-js/static/
 mkdir media
 ```
-
 At this point you should add songs to the ``media`` directory and edit the
 JSON in ``index.html`` to include the songs you want to visualize. After
 that, return to the terminal or command prompt and run
